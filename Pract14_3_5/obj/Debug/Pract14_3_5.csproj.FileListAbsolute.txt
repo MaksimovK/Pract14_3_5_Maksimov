@@ -1,0 +1,11 @@
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\bin\Debug\Pract14_3_5.exe.config
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\bin\Debug\Pract14_3_5.exe
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\bin\Debug\Pract14_3_5.pdb
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.Properties.Resources.resources
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.csproj.GenerateResource.cache
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.exe
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.pdb
+C:\Users\kmaki\RiderProjects\Pract14_3_5\Pract14_3_5\obj\Debug\Pract14_3_5.Form1.resources
